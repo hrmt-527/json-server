@@ -35,7 +35,7 @@
           "itemRemaining" : 7
         },
         "itemPrice": {
-          "isOffer": true,
+          "isOff": true,
           "offerPrice": 322,
           "actualPrice": 339,
           "offPercentage": 5

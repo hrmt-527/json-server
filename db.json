@@ -6,7 +6,9 @@
           "itemHighlights": "6 GB RAM",
           "itemRating": 4.3,
           "itemAvailable": true,
-          "itemRemaining" : 15
+          "itemRemaining" : 15,
+          "itemQuantity" : 1,
+          "itemImage" : "https://github.com/hrmt-527/json-server/blob/main/images/realme_narzo.png"
         },
         "itemPrice": {
           "isOff": true,
@@ -32,7 +34,9 @@
           "itemHighlights": "Size XL, Pack of 2",
           "itemRating": 4.1,
           "itemAvailable": true,
-          "itemRemaining" : 7
+          "itemRemaining" : 7,
+          "itemQuantity" : 1,
+          "itemImage": "https://github.com/hrmt-527/json-server/blob/main/images/pack_2.jpg"
         },
         "itemPrice": {
           "isOff": true,
@@ -43,13 +47,13 @@
         "itemOffers": {
           "isCouponApplied": false,
           "offerApplied": "No offer applied",
-          "offerAvailable": "8 offers available"
+          "offerAvailable": "5 offers available"
         },
         "itemDelivery": {
           "isDeliveryPossible": true,
-          "deliveryTime": "Delivery in 2 days, wed \nDelivery by 11 AM, Tomorrow",
+          "deliveryTime": "Delivery in 2 days, Mon \nDelivery by 11 AM, Tomorrow",
           "deliveryChargeStatus": true,
-          "deliveryCharges": 40
+          "deliveryCharges": 20
         }
       }
     ]

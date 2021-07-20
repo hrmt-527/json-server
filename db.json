@@ -42,7 +42,7 @@
         },
         "itemOffers": {
           "isCouponApplied": false,
-          "offerApplied": 0,
+          "offerApplied": "No offer applied",
           "offerAvailable": "8 offers available"
         },
         "itemDelivery": {

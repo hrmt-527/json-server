@@ -1,0 +1,52 @@
+{
+    "itemData": [
+      {
+        "itemDetail": {
+          "itemName": "realme narzo 30 5G (Silver)",
+          "itemSpecification": "6 GB RAM",
+          "itemRating": 4.3
+        },
+        "itemPrice": {
+          "isOffer": true,
+          "offerPrice": 15999,
+          "actualPrice": 17999,
+          "off": 11
+        },
+        "offers": {
+          "isCouponApplied": true,
+          "offerApplied": "2 offerApplied",
+          "offerAvailable": "8 offer available"
+        },
+        "delivery": {
+          "isDeliveryPossible": true,
+          "deliveryTime": "Delivery in 2 days, wed ",
+          "deliveryChargeStatus": false,
+          "deliveryCharges": 40
+        }
+      },
+      {
+        "itemDetail": {
+          "itemName": "Levis Mens Brief",
+          "itemSpecification": "Size XL, Pack of 2",
+          "itemRating": 4.1
+        },
+        "itemPrice": {
+          "isOffer": true,
+          "offerPrice": 322,
+          "actualPrice": 339,
+          "off": 5
+        },
+        "offers": {
+          "isCouponApplied": false,
+          "offerApplied": 0,
+          "offerAvailable": "8 offers available"
+        },
+        "delivery": {
+          "isDeliveryPossible": true,
+          "deliveryTime": "Delivery in 2 days, wed \nDelivery by 11 AM, Tomorrow",
+          "deliveryChargeStatus": true,
+          "deliveryCharges": 40
+        }
+      }
+    ]
+  }

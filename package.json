@@ -1,0 +1,22 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "Json server for fake rest api",
+  "main": "index.js",
+  "scripts": {
+    "json:server" : "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrmt-527/json-server.git"
+  },
+  "author": "Harmit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrmt-527/json-server/issues"
+  },
+  "homepage": "https://github.com/hrmt-527/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

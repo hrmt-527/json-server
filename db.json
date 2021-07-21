@@ -55,6 +55,62 @@
           "deliveryChargeStatus": true,
           "deliveryCharges": 20
         }
+      },
+      {
+        "itemDetail": {
+          "itemName": "realme 8 pro 5G (White)",
+          "itemHighlights": "4 GB RAM, 128 GB Storage",
+          "itemRating": 4.4,
+          "itemAvailable": true,
+          "itemRemaining" : 15,
+          "itemQuantity" : 1,
+          "itemImage" : "https://github.com/hrmt-527/json-server/blob/main/images/realme_narzo.png"
+        },
+        "itemPrice": {
+          "isOff": true,
+          "offerPrice": 14999,
+          "actualPrice": 15999,
+          "offPercentage": 11
+        },
+        "itemOffers": {
+          "isCouponApplied": true,
+          "offerApplied": "2 offerApplied",
+          "offerAvailable": "8 offer available"
+        },
+        "itemDelivery": {
+          "isDeliveryPossible": true,
+          "deliveryTime": "Delivery in 2 days, wed ",
+          "deliveryChargeStatus": false,
+          "deliveryCharges": 37
+        }
+      },
+      {
+        "itemDetail": {
+          "itemName": "Levis Jeans Color: Navy Blue",
+          "itemHighlights": "Size XL, Pack of 3",
+          "itemRating": 4.2,
+          "itemAvailable": true,
+          "itemRemaining" : 7,
+          "itemQuantity" : 1,
+          "itemImage": "https://github.com/hrmt-527/json-server/blob/main/images/pack_2.jpg"
+        },
+        "itemPrice": {
+          "isOff": true,
+          "offerPrice": 2322,
+          "actualPrice": 3390,
+          "offPercentage": 68.5
+        },
+        "itemOffers": {
+          "isCouponApplied": true,
+          "offerApplied": "No offer applied",
+          "offerAvailable": "5 offers available"
+        },
+        "itemDelivery": {
+          "isDeliveryPossible": true,
+          "deliveryTime": "Delivery by 11 AM, Tomorrow",
+          "deliveryChargeStatus": false,
+          "deliveryCharges": 70
+        }
       }
     ]
   }
